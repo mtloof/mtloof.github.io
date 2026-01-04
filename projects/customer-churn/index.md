@@ -41,8 +41,8 @@ The objective of this analysis was to identify key drivers of churn and evaluate
 ---
 
 ## Artifacts
-Notebook:  [Dynnamic MFA EU](notebooks/Notebook 5_main.ipynb)
-Data:  Sample dataset included in the `data/` directory
+- Notebook:  [Dynnamic MFA EU](notebooks/Notebook 5_main.ipynb)
+- Data:  Sample dataset included in the `data/` directory
 
 
 ---
