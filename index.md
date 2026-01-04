@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: page
+title: Malthe Loof
 ---
-
-# Matthew Loof
 
 ### Applied Analytics & Data Projects
 
