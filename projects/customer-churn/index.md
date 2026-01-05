@@ -9,6 +9,13 @@ This project analyzes customer behavior to identify factors associated with chur
 
 ---
 
+<iframe 
+  src="https://nbviewer.org/github/mtloof/mtloof.github.io/blob/main/projects/customer-churn/notebooks/churn_analysis.ipynb"
+  width="100%" 
+  height="800px"
+  style="border:none;">
+</iframe>
+
 ## Problem Statement
 
 Customer attrition has a direct impact on revenue.  
