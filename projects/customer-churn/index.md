@@ -10,7 +10,7 @@ This project analyzes customer behavior to identify factors associated with chur
 ---
 
 <iframe 
-  src="https://nbviewer.org/github/mtloof/mtloof.github.io/blob/main/projects/customer-churn/notebooks/churn_analysis.ipynb"
+  src="https://nbviewer.org/github/mtloof/mtloof.github.io/blob/main/projects/customer-churn/notebooks/Notebook 5_main.ipynb"
   width="100%" 
   height="800px"
   style="border:none;">
