@@ -44,7 +44,12 @@ The objective of this analysis was to identify key drivers of churn and evaluate
 
 - Identified key churn drivers such as tenure and usage patterns
 - Built a baseline predictive model with reasonable performance
-
+<iframe 
+  src="http://127.0.0.1:64763/"
+  width="100%" 
+  height="800px"
+  style="border:none;">
+</iframe>
 ---
 
 ## Artifacts
